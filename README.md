@@ -1,5 +1,7 @@
 # ✨ Simple Calculator Web App
 
+To try : https://acodein.github.io/1-Calculator/
+
 A responsive and stylish calculator built with HTML, CSS, and JavaScript.
 Designed to work just like a basic calculator, supporting addition, subtraction, multiplication, and division.
 
